@@ -1,0 +1,12 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.im.mobile.imrestaurants",
+        "sha256_cert_fingerprints": [
+          "9F:62:DD:47:79:84:52:0D:22:F0:27:4B:E5:A2:5C:E3:6E:D2:49:0D:89:47:A6:D2:E5:B4:00:DB:BC:81:4D:FC"
+        ]
+      }
+    }
+]
